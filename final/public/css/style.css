@@ -1,0 +1,33 @@
+body {
+    background-color: rgb(255, 239, 239);
+}
+
+.indexDiv p {
+    text-align: center;
+}
+
+.indexDiv button {
+    margin-left: 570px;
+}
+
+.about {
+    margin-top: 30px;
+}
+
+.viewArea {
+    min-height: 80vh;
+}
+
+.indextoo {
+    font-weight: 700;
+    font-size: 18px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+
+}
+
+
